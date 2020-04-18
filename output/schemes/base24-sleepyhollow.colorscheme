@@ -1,0 +1,34 @@
+# SleepyHollow
+# Scheme by Iterm2B24
+background #121213
+foreground #968684
+selection_background #968684
+selection_foreground #121213
+url_color #7e7278
+cursor #968684
+active_border_color #665e6c
+inactive_border_color #572000
+active_tab_background #121213
+active_tab_foreground #968684
+inactive_tab_background #572000
+inactive_tab_foreground #7e7278
+
+# normal
+color0 #572000
+color1 #b93934
+color2 #90773e
+color3 #b45600
+color4 #5e62b4
+color5 #a07c7b
+color6 #8eaea9
+color7 #af9a91
+
+# bright
+color8 #4e4b60
+color9 #d9443e
+color10 #d6b04e
+color11 #f66713
+color12 #8085ef
+color13 #e1c2ba
+color14 #a4dbe7
+color15 #d1c7a9

@@ -1,0 +1,34 @@
+# Chalkboard
+# Scheme by Iterm2B24
+background #29262f
+foreground #afafaf
+selection_background #afafaf
+selection_foreground #29262f
+url_color #858585
+cursor #afafaf
+active_border_color #5b5b5b
+inactive_border_color #000000
+active_tab_background #29262f
+active_tab_foreground #afafaf
+inactive_tab_background #000000
+inactive_tab_foreground #858585
+
+# normal
+color0 #000000
+color1 #c37372
+color2 #72c373
+color3 #c2c372
+color4 #7372c3
+color5 #c372c2
+color6 #72c2c3
+color7 #d9d9d9
+
+# bright
+color8 #323232
+color9 #dbaaaa
+color10 #aadbaa
+color11 #dadbaa
+color12 #aaaadb
+color13 #dbaada
+color14 #aadadb
+color15 #ffffff

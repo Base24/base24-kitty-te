@@ -1,0 +1,34 @@
+# Hurtado
+# Scheme by Iterm2B24
+background #000000
+foreground #a1a1a1
+selection_background #a1a1a1
+selection_foreground #000000
+url_color #787878
+cursor #a1a1a1
+active_border_color #4e4e4e
+inactive_border_color #575757
+active_tab_background #000000
+active_tab_foreground #a1a1a1
+inactive_tab_background #575757
+inactive_tab_foreground #787878
+
+# normal
+color0 #575757
+color1 #ff1b00
+color2 #a5df55
+color3 #fbe74a
+color4 #486387
+color5 #fc5ef0
+color6 #85e9fe
+color7 #cbcbcb
+
+# bright
+color8 #252525
+color9 #d41c00
+color10 #a5df55
+color11 #fbe749
+color12 #89bdff
+color13 #bf00c0
+color14 #85e9fe
+color15 #dbdbdb

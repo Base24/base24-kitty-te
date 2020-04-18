@@ -1,0 +1,34 @@
+# Rebecca
+# Scheme by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+background #292a44
+foreground #f1eff8
+selection_background #f1eff8
+selection_foreground #292a44
+url_color #a0a0c5
+cursor #f1eff8
+active_border_color #666699
+inactive_border_color #663399
+active_tab_background #292a44
+active_tab_foreground #f1eff8
+inactive_tab_background #663399
+inactive_tab_foreground #a0a0c5
+
+# normal
+color0 #663399
+color1 #a0a0c5
+color2 #6dfedf
+color3 #efe4a1
+color4 #2de0a7
+color5 #7aa5ff
+color6 #8eaee0
+color7 #ccccff
+
+# bright
+color8 #383a62
+color9 #a0a0c5
+color10 #6dfedf
+color11 #ae81ff
+color12 #2de0a7
+color13 #7aa5ff
+color14 #8eaee0
+color15 #53495d

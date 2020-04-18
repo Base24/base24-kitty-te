@@ -1,0 +1,34 @@
+# ayu
+# Scheme by Iterm2B24
+background #0f1419
+foreground #cbcbcb
+selection_background #cbcbcb
+selection_foreground #0f1419
+url_color #989898
+cursor #cbcbcb
+active_border_color #656565
+inactive_border_color #000000
+active_tab_background #0f1419
+active_tab_foreground #cbcbcb
+inactive_tab_background #000000
+inactive_tab_foreground #989898
+
+# normal
+color0 #000000
+color1 #ff3333
+color2 #b8cc52
+color3 #e7c547
+color4 #36a3d9
+color5 #f07178
+color6 #95e6cb
+color7 #ffffff
+
+# bright
+color8 #323232
+color9 #ff6565
+color10 #eafe84
+color11 #fff779
+color12 #68d5ff
+color13 #ffa3aa
+color14 #c7fffd
+color15 #ffffff

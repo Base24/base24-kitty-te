@@ -1,0 +1,34 @@
+# PaulMillr
+# Scheme by Iterm2B24
+background #000000
+foreground #a5a5a5
+selection_background #a5a5a5
+selection_foreground #000000
+url_color #909090
+cursor #a5a5a5
+active_border_color #7b7b7b
+inactive_border_color #2a2a2a
+active_tab_background #000000
+active_tab_foreground #a5a5a5
+inactive_tab_background #2a2a2a
+inactive_tab_foreground #909090
+
+# normal
+color0 #2a2a2a
+color1 #ff0000
+color2 #79ff0f
+color3 #e7bf00
+color4 #386bd7
+color5 #b349be
+color6 #66ccff
+color7 #bbbbbb
+
+# bright
+color8 #666666
+color9 #ff0080
+color10 #66ff66
+color11 #f3d64e
+color12 #709aed
+color13 #db67e6
+color14 #79dff2
+color15 #ffffff

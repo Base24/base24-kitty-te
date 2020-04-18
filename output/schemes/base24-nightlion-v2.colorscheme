@@ -1,0 +1,34 @@
+# NightLion v2
+# Scheme by Iterm2B24
+background #171717
+foreground #a1a1a1
+selection_background #a1a1a1
+selection_foreground #171717
+url_color #888888
+cursor #a1a1a1
+active_border_color #6e6e6e
+inactive_border_color #4c4c4c
+active_tab_background #171717
+active_tab_foreground #a1a1a1
+inactive_tab_background #4c4c4c
+inactive_tab_foreground #888888
+
+# normal
+color0 #4c4c4c
+color1 #bb0000
+color2 #03f622
+color3 #f2f067
+color4 #63d0f0
+color5 #ce6fda
+color6 #00d9df
+color7 #bbbbbb
+
+# bright
+color8 #555555
+color9 #ff5555
+color10 #7df61c
+color11 #ffff55
+color12 #62cae7
+color13 #ff9af5
+color14 #00ccd7
+color15 #ffffff

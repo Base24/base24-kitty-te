@@ -1,0 +1,3 @@
+default:
+    extension: .colorscheme
+    output: schemes

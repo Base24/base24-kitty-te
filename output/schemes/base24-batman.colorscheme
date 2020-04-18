@@ -1,0 +1,34 @@
+# Batman
+# Scheme by Iterm2B24
+background #1b1d1e
+foreground #a7a8a3
+selection_background #a7a8a3
+selection_foreground #1b1d1e
+url_color #8a8c89
+cursor #a7a8a3
+active_border_color #6d6f6e
+inactive_border_color #1b1d1e
+active_tab_background #1b1d1e
+active_tab_foreground #a7a8a3
+inactive_tab_background #1b1d1e
+inactive_tab_foreground #8a8c89
+
+# normal
+color0 #1b1d1e
+color1 #e6db43
+color2 #c8be46
+color3 #f3fd21
+color4 #737074
+color5 #737271
+color6 #615f5e
+color7 #c5c5be
+
+# bright
+color8 #505354
+color9 #fff68d
+color10 #fff27c
+color11 #feed6c
+color12 #909495
+color13 #9a999d
+color14 #a2a2a5
+color15 #dadad5

@@ -1,0 +1,34 @@
+# rebecca
+# Scheme by Iterm2B24
+background #292a44
+foreground #c3c3d4
+selection_background #c3c3d4
+selection_foreground #292a44
+url_color #a4a4c0
+cursor #c3c3d4
+active_border_color #8585ac
+inactive_border_color #12131d
+active_tab_background #292a44
+active_tab_foreground #c3c3d4
+inactive_tab_background #12131d
+inactive_tab_foreground #a4a4c0
+
+# normal
+color0 #12131d
+color1 #dd7655
+color2 #04dbb4
+color3 #f2e7b7
+color4 #7aa5ff
+color5 #be9bf8
+color6 #56d3c1
+color7 #e3e2e8
+
+# bright
+color8 #666699
+color9 #ff91cd
+color10 #00e9c0
+color11 #fefca8
+color12 #69bffa
+color13 #c07ff8
+color14 #8bfce1
+color15 #f3f2f8

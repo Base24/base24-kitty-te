@@ -1,0 +1,34 @@
+# Floraverse
+# Scheme by Iterm2B24
+background #0e0c15
+foreground #c3af9d
+selection_background #c3af9d
+selection_foreground #0e0c15
+url_color #937f82
+cursor #c3af9d
+active_border_color #634e67
+inactive_border_color #08002e
+active_tab_background #0e0c15
+active_tab_foreground #c3af9d
+inactive_tab_background #08002e
+inactive_tab_foreground #937f82
+
+# normal
+color0 #08002e
+color1 #64002c
+color2 #5d731a
+color3 #cd751c
+color4 #1d6da1
+color5 #b7077e
+color6 #42a38c
+color7 #f3e0b8
+
+# bright
+color8 #331e4d
+color9 #d02063
+color10 #b4ce59
+color11 #fac357
+color12 #40a4cf
+color13 #f12aae
+color14 #62caa8
+color15 #fff5db

@@ -1,0 +1,34 @@
+# FunForrest
+# Scheme by Iterm2B24
+background #241200
+foreground #c5ab60
+selection_background #c5ab60
+selection_foreground #241200
+url_color #ad955c
+cursor #c5ab60
+active_border_color #957f58
+inactive_border_color #000000
+active_tab_background #241200
+active_tab_foreground #c5ab60
+inactive_tab_background #000000
+inactive_tab_foreground #ad955c
+
+# normal
+color0 #000000
+color1 #d5252b
+color2 #909b00
+color3 #bd8a13
+color4 #4698a2
+color5 #8c4231
+color6 #d98112
+color7 #ddc165
+
+# bright
+color8 #7e6954
+color9 #e4591b
+color10 #bfc659
+color11 #ffca1b
+color12 #7cc9ce
+color13 #d16349
+color14 #e6a96b
+color15 #ffe9a3

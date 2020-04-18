@@ -1,0 +1,34 @@
+# SeaShells
+# Scheme by Iterm2B24
+background #08131a
+foreground #b79c7e
+selection_background #b79c7e
+selection_foreground #08131a
+url_color #90816f
+cursor #b79c7e
+active_border_color #696660
+inactive_border_color #17384c
+active_tab_background #08131a
+active_tab_foreground #b79c7e
+inactive_tab_background #17384c
+inactive_tab_foreground #90816f
+
+# normal
+color0 #17384c
+color1 #d15023
+color2 #027c9b
+color3 #fca02f
+color4 #1e4950
+color5 #68d3f1
+color6 #50a3b5
+color7 #deb88d
+
+# bright
+color8 #424b52
+color9 #d38677
+color10 #618c98
+color11 #fdd29e
+color12 #1bbcdd
+color13 #bbe3ee
+color14 #86abb3
+color15 #fee3cd

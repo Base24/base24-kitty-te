@@ -1,0 +1,34 @@
+# Twilight
+# Scheme by Iterm2B24
+background #141414
+foreground #c8c8a7
+selection_background #c8c8a7
+selection_foreground #141414
+url_color #92927c
+cursor #c8c8a7
+active_border_color #5c5c51
+inactive_border_color #141414
+active_tab_background #141414
+active_tab_foreground #c8c8a7
+inactive_tab_background #141414
+inactive_tab_foreground #92927c
+
+# normal
+color0 #141414
+color1 #c06c43
+color2 #afb979
+color3 #c2a86c
+color4 #444649
+color5 #b4be7b
+color6 #778284
+color7 #feffd3
+
+# bright
+color8 #262626
+color9 #dd7c4c
+color10 #cbd88c
+color11 #e1c47d
+color12 #5a5d61
+color13 #d0db8e
+color14 #8a989a
+color15 #feffd3

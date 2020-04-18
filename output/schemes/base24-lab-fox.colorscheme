@@ -1,0 +1,34 @@
+# Lab Fox
+# Scheme by Iterm2B24
+background #2e2e2e
+foreground #cfd0d0
+selection_background #cfd0d0
+selection_foreground #2e2e2e
+url_color #a1a2a2
+cursor #cfd0d0
+active_border_color #737373
+inactive_border_color #2e2e2e
+active_tab_background #2e2e2e
+active_tab_foreground #cfd0d0
+inactive_tab_background #2e2e2e
+inactive_tab_foreground #a1a2a2
+
+# normal
+color0 #2e2e2e
+color1 #fc6d26
+color2 #3eb383
+color3 #fca121
+color4 #db3b21
+color5 #380d75
+color6 #6e49cb
+color7 #feffff
+
+# bright
+color8 #454545
+color9 #ff6517
+color10 #52e9a8
+color11 #fca012
+color12 #db501f
+color13 #441090
+color14 #7d53e7
+color15 #feffff

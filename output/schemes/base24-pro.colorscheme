@@ -1,0 +1,34 @@
+# Pro
+# Scheme by Iterm2B24
+background #000000
+foreground #a8a8a8
+selection_background #a8a8a8
+selection_foreground #000000
+url_color #929292
+cursor #a8a8a8
+active_border_color #7c7c7c
+inactive_border_color #000000
+active_tab_background #000000
+active_tab_foreground #a8a8a8
+inactive_tab_background #000000
+inactive_tab_foreground #929292
+
+# normal
+color0 #000000
+color1 #990000
+color2 #00a600
+color3 #999900
+color4 #1f08db
+color5 #b200b2
+color6 #00a6b2
+color7 #bfbfbf
+
+# bright
+color8 #666666
+color9 #e50000
+color10 #00d900
+color11 #e5e500
+color12 #0000ff
+color13 #e500e5
+color14 #00e5e5
+color15 #e5e5e5

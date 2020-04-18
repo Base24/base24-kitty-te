@@ -1,0 +1,34 @@
+# Royal
+# Scheme by Iterm2B24
+background #100814
+foreground #49425a
+selection_background #49425a
+selection_foreground #100814
+url_color #413b50
+cursor #49425a
+active_border_color #393446
+inactive_border_color #241f2a
+active_tab_background #100814
+active_tab_foreground #49425a
+inactive_tab_background #241f2a
+inactive_tab_foreground #413b50
+
+# normal
+color0 #241f2a
+color1 #90274b
+color2 #23801c
+color3 #b49d27
+color4 #6480af
+color5 #664d96
+color6 #8aaabd
+color7 #514965
+
+# bright
+color8 #312d3c
+color9 #d4346c
+color10 #2cd845
+color11 #fde83a
+color12 #8fb9f9
+color13 #a479e2
+color14 #abd3eb
+color15 #9d8bbd

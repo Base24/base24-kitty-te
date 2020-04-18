@@ -1,0 +1,34 @@
+# UltraViolent
+# Scheme by Iterm2B24
+background #242728
+foreground #c1c2c2
+selection_background #c1c2c2
+selection_foreground #242728
+url_color #a1a3a3
+cursor #c1c2c2
+active_border_color #818484
+inactive_border_color #232628
+active_tab_background #242728
+active_tab_foreground #c1c2c2
+inactive_tab_background #232628
+inactive_tab_foreground #a1a3a3
+
+# normal
+color0 #232628
+color1 #ff0090
+color2 #b5ff00
+color3 #fff727
+color4 #47dffb
+color5 #d630ff
+color6 #0effbb
+color7 #e1e1e1
+
+# bright
+color8 #626566
+color9 #fb57b4
+color10 #deff8b
+color11 #ebdf86
+color12 #7febff
+color13 #e681ff
+color14 #68fcd2
+color15 #f9f9f4

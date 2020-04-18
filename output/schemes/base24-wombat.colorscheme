@@ -1,0 +1,34 @@
+# Wombat
+# Scheme by Iterm2B24
+background #171717
+foreground #b2afa6
+selection_background #b2afa6
+selection_foreground #171717
+url_color #87857f
+cursor #b2afa6
+active_border_color #5c5b58
+inactive_border_color #000000
+active_tab_background #171717
+active_tab_foreground #b2afa6
+inactive_tab_background #000000
+inactive_tab_foreground #87857f
+
+# normal
+color0 #000000
+color1 #ff605a
+color2 #b1e869
+color3 #ead89c
+color4 #5da9f6
+color5 #e86aff
+color6 #82fff6
+color7 #ded9ce
+
+# bright
+color8 #313131
+color9 #f58b7f
+color10 #dcf88f
+color11 #eee5b2
+color12 #a5c7ff
+color13 #ddaaff
+color14 #b6fff9
+color15 #fefffe

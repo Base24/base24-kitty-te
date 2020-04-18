@@ -1,0 +1,34 @@
+# Treehouse
+# Scheme by Iterm2B24
+background #191919
+foreground #695d47
+selection_background #695d47
+selection_foreground #191919
+url_color #5c503c
+cursor #695d47
+active_border_color #4f4330
+inactive_border_color #321200
+active_tab_background #191919
+active_tab_foreground #695d47
+inactive_tab_background #321200
+inactive_tab_foreground #5c503c
+
+# normal
+color0 #321200
+color1 #b1270e
+color2 #44a900
+color3 #a9810b
+color4 #578499
+color5 #96363c
+color6 #b2591d
+color7 #776b53
+
+# bright
+color8 #423625
+color9 #ed5c20
+color10 #55f237
+color11 #f1b731
+color12 #85cfec
+color13 #e04b5a
+color14 #f07d14
+color15 #ffc800

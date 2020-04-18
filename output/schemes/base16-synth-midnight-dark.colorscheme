@@ -1,0 +1,34 @@
+# Synth Midnight Dark
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+background #040404
+foreground #DFDBDF
+selection_background #DFDBDF
+selection_foreground #040404
+url_color #BFBBBF
+cursor #DFDBDF
+active_border_color #61507A
+inactive_border_color #141414
+active_tab_background #040404
+active_tab_foreground #DFDBDF
+inactive_tab_background #141414
+inactive_tab_foreground #BFBBBF
+
+# normal
+color0 #141414
+color1 #B53B50
+color2 #06EA61
+color3 #E4600E
+color4 #03AEFF
+color5 #EA5CE2
+color6 #7CEDE9
+color7 #EFEBEF
+
+# bright
+color8 #242424
+color9 #B53B50
+color10 #06EA61
+color11 #DAE84D
+color12 #03AEFF
+color13 #EA5CE2
+color14 #7CEDE9
+color15 #FFFBFF

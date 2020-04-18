@@ -1,0 +1,34 @@
+# Elemental
+# Scheme by Iterm2B24
+background #21211c
+foreground #756f68
+selection_background #756f68
+selection_foreground #21211c
+url_color #6a665c
+cursor #756f68
+active_border_color #5f5d50
+inactive_border_color #3c3b30
+active_tab_background #21211c
+active_tab_foreground #756f68
+inactive_tab_background #3c3b30
+inactive_tab_foreground #6a665c
+
+# normal
+color0 #3c3b30
+color1 #97280f
+color2 #479942
+color3 #7f7110
+color4 #497f7d
+color5 #7e4e2e
+color6 #387f58
+color7 #807974
+
+# bright
+color8 #545444
+color9 #df502a
+color10 #60e06f
+color11 #d69827
+color12 #78d8d8
+color13 #cd7c53
+color14 #58d598
+color15 #fff1e8

@@ -1,0 +1,34 @@
+# Piatto Light
+# Scheme by Iterm2B24
+background #ffffff
+foreground #cfcfcf
+selection_background #cfcfcf
+selection_foreground #ffffff
+url_color #9f9f9f
+cursor #cfcfcf
+active_border_color #6f6f6f
+inactive_border_color #414141
+active_tab_background #ffffff
+active_tab_foreground #cfcfcf
+inactive_tab_background #414141
+inactive_tab_foreground #9f9f9f
+
+# normal
+color0 #414141
+color1 #b23771
+color2 #66781e
+color3 #cd6f34
+color4 #3c5ea8
+color5 #a454b2
+color6 #66781e
+color7 #ffffff
+
+# bright
+color8 #3f3f3f
+color9 #db3365
+color10 #829429
+color11 #cd6f34
+color12 #3c5ea8
+color13 #a454b2
+color14 #829429
+color15 #f2f2f2

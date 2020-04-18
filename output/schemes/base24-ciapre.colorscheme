@@ -1,0 +1,34 @@
+# Ciapre
+# Scheme by Iterm2B24
+background #181c27
+foreground #978f73
+selection_background #978f73
+selection_foreground #181c27
+url_color #817c69
+cursor #978f73
+active_border_color #6b685f
+inactive_border_color #181818
+active_tab_background #181c27
+active_tab_foreground #978f73
+inactive_tab_background #181818
+inactive_tab_foreground #817c69
+
+# normal
+color0 #181818
+color1 #800009
+color2 #48513b
+color3 #cc8a3e
+color4 #566d8c
+color5 #724c7c
+color6 #5b4f4a
+color7 #ada37e
+
+# bright
+color8 #555555
+color9 #ab3834
+color10 #a6a65d
+color11 #dcde7b
+color12 #2f97c6
+color13 #d33060
+color14 #f3dab1
+color15 #f3f3f3

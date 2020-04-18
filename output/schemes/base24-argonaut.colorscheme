@@ -1,0 +1,34 @@
+# Argonaut
+# Scheme by Iterm2B24
+background #0d0f18
+foreground #d0d0d0
+selection_background #d0d0d0
+selection_foreground #0d0f18
+url_color #a1a1a1
+cursor #d0d0d0
+active_border_color #727272
+inactive_border_color #222222
+active_tab_background #0d0f18
+active_tab_foreground #d0d0d0
+inactive_tab_background #222222
+inactive_tab_foreground #a1a1a1
+
+# normal
+color0 #222222
+color1 #ff000f
+color2 #8ce00a
+color3 #ffb900
+color4 #008df8
+color5 #6c43a5
+color6 #00d7eb
+color7 #ffffff
+
+# bright
+color8 #444444
+color9 #ff273f
+color10 #abe05a
+color11 #ffd141
+color12 #0092ff
+color13 #9a5feb
+color14 #67ffef
+color15 #ffffff

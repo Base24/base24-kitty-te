@@ -1,0 +1,34 @@
+# BlulocoLight
+# Scheme by Iterm2B24
+background #f7f7f7
+foreground #38383a
+selection_background #38383a
+selection_foreground #f7f7f7
+url_color #6f6f74
+cursor #38383a
+active_border_color #a6a7ae
+inactive_border_color #cbccd4
+active_tab_background #f7f7f7
+active_tab_foreground #38383a
+inactive_tab_background #cbccd4
+inactive_tab_foreground #6f6f74
+
+# normal
+color0 #cbccd4
+color1 #c80d41
+color2 #208839
+color3 #d44d16
+color4 #1d44dd
+color5 #6d1bed
+color6 #1e4d7a
+color7 #000000
+
+# bright
+color8 #dddee8
+color9 #fb496d
+color10 #34b253
+color11 #b79326
+color12 #1085d9
+color13 #c00cb2
+color14 #5a7fac
+color15 #1c1d21

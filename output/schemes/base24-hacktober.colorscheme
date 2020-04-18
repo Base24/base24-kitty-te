@@ -1,0 +1,34 @@
+# Hacktober
+# Scheme by Iterm2B24
+background #141414
+foreground #bfbdb7
+selection_background #bfbdb7
+selection_foreground #141414
+url_color #8e8c88
+cursor #bfbdb7
+active_border_color #5d5b59
+inactive_border_color #191918
+active_tab_background #141414
+active_tab_foreground #bfbdb7
+inactive_tab_background #191918
+inactive_tab_foreground #8e8c88
+
+# normal
+color0 #191918
+color1 #b34538
+color2 #587744
+color3 #d08949
+color4 #206ec5
+color5 #864651
+color6 #ac9166
+color7 #f1eee7
+
+# bright
+color8 #2c2b2a
+color9 #b33323
+color10 #42824a
+color11 #c75a22
+color12 #5389c5
+color13 #e795a5
+color14 #ebc587
+color15 #ffffff

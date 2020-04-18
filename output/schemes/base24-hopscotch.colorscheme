@@ -1,0 +1,34 @@
+# Hopscotch
+# Scheme by Iterm2B24
+background #322931
+foreground #a9a4a8
+selection_background #a9a4a8
+selection_foreground #322931
+url_color #999498
+cursor #a9a4a8
+active_border_color #898388
+inactive_border_color #322931
+active_tab_background #322931
+active_tab_foreground #a9a4a8
+inactive_tab_background #322931
+inactive_tab_foreground #999498
+
+# normal
+color0 #322931
+color1 #dd464c
+color2 #8fc13e
+color3 #fdcc59
+color4 #1290bf
+color5 #c85e7c
+color6 #149b93
+color7 #b9b5b8
+
+# bright
+color8 #797379
+color9 #fd8b19
+color10 #433b42
+color11 #5c545b
+color12 #989498
+color13 #d5d3d5
+color14 #b33508
+color15 #ffffff

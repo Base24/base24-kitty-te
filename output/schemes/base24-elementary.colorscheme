@@ -1,0 +1,34 @@
+# Elementary
+# Scheme by Iterm2B24
+background #181818
+foreground #c5c5c5
+selection_background #c5c5c5
+selection_foreground #181818
+url_color #9c9c9c
+cursor #c5c5c5
+active_border_color #737373
+inactive_border_color #242424
+active_tab_background #181818
+active_tab_foreground #c5c5c5
+inactive_tab_background #242424
+inactive_tab_foreground #9c9c9c
+
+# normal
+color0 #242424
+color1 #d61b15
+color2 #59a413
+color3 #fdb40b
+color4 #053a8c
+color5 #e40038
+color6 #2594e0
+color7 #eeeeee
+
+# bright
+color8 #4a4a4a
+color9 #fb1b18
+color10 #6ac118
+color11 #fdc70e
+color12 #0855fe
+color13 #fb004f
+color14 #3ea7fc
+color15 #8c00eb

@@ -1,0 +1,34 @@
+# AdventureTime
+# Scheme by Iterm2B24
+background #1e1c44
+foreground #cdc3bf
+selection_background #cdc3bf
+selection_foreground #1e1c44
+url_color #a3abbf
+cursor #cdc3bf
+active_border_color #7893bf
+inactive_border_color #050404
+active_tab_background #1e1c44
+active_tab_foreground #cdc3bf
+inactive_tab_background #050404
+inactive_tab_foreground #a3abbf
+
+# normal
+color0 #050404
+color1 #bc0013
+color2 #49b117
+color3 #e6741d
+color4 #0f49c6
+color5 #665992
+color6 #6fa497
+color7 #f8dbc0
+
+# bright
+color8 #4e7bbf
+color9 #fc5e59
+color10 #9dff6e
+color11 #efc11a
+color12 #1896c6
+color13 #9a5952
+color14 #c8f9f3
+color15 #f5f4fb

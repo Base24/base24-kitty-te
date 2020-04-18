@@ -1,0 +1,34 @@
+# Heetch Light
+# Scheme by Geoffrey Teale (tealeg@gmail.com)
+background #feffff
+foreground #5a496e
+selection_background #5a496e
+selection_foreground #feffff
+url_color #ddd6e5
+cursor #5a496e
+active_border_color #9c92a8
+inactive_border_color #392551
+active_tab_background #feffff
+active_tab_foreground #5a496e
+inactive_tab_background #392551
+inactive_tab_foreground #ddd6e5
+
+# normal
+color0 #392551
+color1 #27d9d5
+color2 #f80059
+color3 #bdb6c5
+color4 #47f9f5
+color5 #bd0152
+color6 #c33678
+color7 #470546
+
+# bright
+color8 #7b6d8b
+color9 #27d9d5
+color10 #f80059
+color11 #5ba2b6
+color12 #47f9f5
+color13 #bd0152
+color14 #c33678
+color15 #190134

@@ -1,0 +1,34 @@
+# SoftServer
+# Scheme by Iterm2B24
+background #242626
+foreground #8c9594
+selection_background #8c9594
+selection_foreground #242626
+url_color #7f8786
+cursor #8c9594
+active_border_color #727978
+inactive_border_color #000000
+active_tab_background #242626
+active_tab_foreground #8c9594
+inactive_tab_background #000000
+inactive_tab_foreground #7f8786
+
+# normal
+color0 #000000
+color1 #a16869
+color2 #99a569
+color3 #a29069
+color4 #6a8fa3
+color5 #6971a3
+color6 #6ba48f
+color7 #99a3a2
+
+# bright
+color8 #666c6b
+color9 #dc5b5f
+color10 #bfde54
+color11 #deb35f
+color12 #62b1df
+color13 #5f6ede
+color14 #64e39c
+color15 #d1dfde

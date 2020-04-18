@@ -1,0 +1,34 @@
+# Jellybeans
+# Scheme by Iterm2B24
+background #121212
+foreground #d5d5d5
+selection_background #d5d5d5
+selection_foreground #121212
+url_color #cdcdcd
+cursor #d5d5d5
+active_border_color #c5c5c5
+inactive_border_color #929292
+active_tab_background #121212
+active_tab_foreground #d5d5d5
+inactive_tab_background #929292
+inactive_tab_foreground #cdcdcd
+
+# normal
+color0 #929292
+color1 #e27373
+color2 #93b979
+color3 #ffba7b
+color4 #97bedc
+color5 #e1c0fa
+color6 #00988e
+color7 #dedede
+
+# bright
+color8 #bdbdbd
+color9 #ffa1a1
+color10 #bddeab
+color11 #ffdca0
+color12 #b1d8f6
+color13 #fbdaff
+color14 #1ab2a8
+color15 #ffffff

@@ -1,0 +1,34 @@
+# Hybrid
+# Scheme by Iterm2B24
+background #161718
+foreground #8f9190
+selection_background #8f9190
+selection_foreground #161718
+url_color #696b6b
+cursor #8f9190
+active_border_color #434446
+inactive_border_color #2a2e33
+active_tab_background #161718
+active_tab_foreground #8f9190
+inactive_tab_background #2a2e33
+inactive_tab_foreground #696b6b
+
+# normal
+color0 #2a2e33
+color1 #b74d50
+color2 #b3be5a
+color3 #e3b55e
+color4 #6d90b0
+color5 #a07eab
+color6 #7fbeb3
+color7 #b5b8b6
+
+# bright
+color8 #1d1e21
+color9 #8c2d32
+color10 #788331
+color11 #e5894f
+color12 #4b6b88
+color13 #6e4f79
+color14 #4d7b73
+color15 #5a6169

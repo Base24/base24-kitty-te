@@ -1,0 +1,34 @@
+# Molokai
+# Scheme by Iterm2B24
+background #121212
+foreground #a1a1a1
+selection_background #a1a1a1
+selection_foreground #121212
+url_color #888888
+cursor #a1a1a1
+active_border_color #6e6e6e
+inactive_border_color #121212
+active_tab_background #121212
+active_tab_foreground #a1a1a1
+inactive_tab_background #121212
+inactive_tab_foreground #888888
+
+# normal
+color0 #121212
+color1 #fa2573
+color2 #97e123
+color3 #dfd460
+color4 #0f7fcf
+color5 #8700ff
+color6 #42a7cf
+color7 #bbbbbb
+
+# bright
+color8 #555555
+color9 #f5669c
+color10 #b0e05e
+color11 #fef26c
+color12 #00afff
+color13 #af87ff
+color14 #50cdfe
+color15 #ffffff

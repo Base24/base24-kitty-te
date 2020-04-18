@@ -1,0 +1,34 @@
+# Atelier Estuary Light
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+background #f4f3ec
+foreground #5f5e4e
+selection_background #5f5e4e
+selection_foreground #f4f3ec
+url_color #6c6b5a
+cursor #5f5e4e
+active_border_color #878573
+inactive_border_color #e7e6df
+active_tab_background #f4f3ec
+active_tab_foreground #5f5e4e
+inactive_tab_background #e7e6df
+inactive_tab_foreground #6c6b5a
+
+# normal
+color0 #e7e6df
+color1 #ba6236
+color2 #7d9726
+color3 #ae7313
+color4 #36a166
+color5 #5f9182
+color6 #5b9d48
+color7 #302f27
+
+# bright
+color8 #929181
+color9 #ba6236
+color10 #7d9726
+color11 #a5980d
+color12 #36a166
+color13 #5f9182
+color14 #5b9d48
+color15 #22221b

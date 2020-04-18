@@ -1,0 +1,34 @@
+# Monokai Vivid
+# Scheme by Iterm2B24
+background #121212
+foreground #dfdfdf
+selection_background #dfdfdf
+selection_foreground #121212
+url_color #c0c0c0
+cursor #dfdfdf
+active_border_color #a1a1a1
+inactive_border_color #121212
+active_tab_background #121212
+active_tab_foreground #dfdfdf
+inactive_tab_background #121212
+inactive_tab_foreground #c0c0c0
+
+# normal
+color0 #121212
+color1 #fa2834
+color2 #97e123
+color3 #fef20a
+color4 #0442fe
+color5 #f800f8
+color6 #01b6ed
+color7 #fffefe
+
+# bright
+color8 #828282
+color9 #f5669c
+color10 #b0e05e
+color11 #fef26c
+color12 #0442fe
+color13 #f200f5
+color14 #50cdfe
+color15 #ffffff

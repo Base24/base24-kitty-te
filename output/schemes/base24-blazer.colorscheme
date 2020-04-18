@@ -1,0 +1,34 @@
+# Blazer
+# Scheme by Iterm2B24
+background #0d1926
+foreground #acacac
+selection_background #acacac
+selection_foreground #0d1926
+url_color #7f7f7f
+cursor #acacac
+active_border_color #525252
+inactive_border_color #000000
+active_tab_background #0d1926
+active_tab_foreground #acacac
+inactive_tab_background #000000
+inactive_tab_foreground #7f7f7f
+
+# normal
+color0 #000000
+color1 #b87a7a
+color2 #7ab87a
+color3 #b8b87a
+color4 #7a7ab8
+color5 #b87ab8
+color6 #7ab8b8
+color7 #d9d9d9
+
+# bright
+color8 #262626
+color9 #dbbdbd
+color10 #bddbbd
+color11 #dbdbbd
+color12 #bdbddb
+color13 #dbbddb
+color14 #bddbdb
+color15 #ffffff

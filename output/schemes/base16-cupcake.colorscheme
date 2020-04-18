@@ -1,0 +1,34 @@
+# Cupcake
+# Scheme by Chris Kempson (http://chriskempson.com)
+background #fbf1f2
+foreground #8b8198
+selection_background #8b8198
+selection_foreground #fbf1f2
+url_color #a59daf
+cursor #8b8198
+active_border_color #bfb9c6
+inactive_border_color #f2f1f4
+active_tab_background #fbf1f2
+active_tab_foreground #8b8198
+inactive_tab_background #f2f1f4
+inactive_tab_foreground #a59daf
+
+# normal
+color0 #f2f1f4
+color1 #D57E85
+color2 #A3B367
+color3 #EBB790
+color4 #7297B9
+color5 #BB99B4
+color6 #69A9A7
+color7 #72677E
+
+# bright
+color8 #d8d5dd
+color9 #D57E85
+color10 #A3B367
+color11 #DCB16C
+color12 #7297B9
+color13 #BB99B4
+color14 #69A9A7
+color15 #585062

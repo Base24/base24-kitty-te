@@ -1,0 +1,34 @@
+# SpaceGray Eighties
+# Scheme by Iterm2B24
+background #212121
+foreground #c7c6c2
+selection_background #c7c6c2
+selection_foreground #212121
+url_color #a1a09e
+cursor #c7c6c2
+active_border_color #7b7a79
+inactive_border_color #15171c
+active_tab_background #212121
+active_tab_foreground #c7c6c2
+inactive_tab_background #15171c
+inactive_tab_foreground #a1a09e
+
+# normal
+color0 #15171c
+color1 #ec5f67
+color2 #80a763
+color3 #fdc253
+color4 #5485c0
+color5 #bf83c0
+color6 #57c2c0
+color7 #eeece7
+
+# bright
+color8 #555555
+color9 #ff6973
+color10 #93d393
+color11 #ffd156
+color12 #4d83d0
+color13 #ff55ff
+color14 #83e8e4
+color15 #ffffff

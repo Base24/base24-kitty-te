@@ -1,0 +1,34 @@
+# Flatland
+# Scheme by Iterm2B24
+background #1c1e20
+foreground #c5c6c4
+selection_background #c5c6c4
+selection_foreground #1c1e20
+url_color #8d8e8b
+cursor #c5c6c4
+active_border_color #545552
+inactive_border_color #1c1d19
+active_tab_background #1c1e20
+active_tab_foreground #c5c6c4
+inactive_tab_background #1c1d19
+inactive_tab_foreground #8d8e8b
+
+# normal
+color0 #1c1d19
+color1 #f18238
+color2 #9ed264
+color3 #f3ef6d
+color4 #4f96be
+color5 #695abb
+color6 #d53864
+color7 #fefffe
+
+# bright
+color8 #1c1d19
+color9 #d12a24
+color10 #a7d32c
+color11 #ff8948
+color12 #61b8d0
+color13 #695abb
+color14 #d53864
+color15 #fefffe

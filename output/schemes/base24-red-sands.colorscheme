@@ -1,0 +1,34 @@
+# Red Sands
+# Scheme by Iterm2B24
+background #79241e
+foreground #a1a1a1
+selection_background #a1a1a1
+selection_foreground #79241e
+url_color #888888
+cursor #a1a1a1
+active_border_color #6e6e6e
+inactive_border_color #000000
+active_tab_background #79241e
+active_tab_foreground #a1a1a1
+inactive_tab_background #000000
+inactive_tab_foreground #888888
+
+# normal
+color0 #000000
+color1 #ff3f00
+color2 #00bb00
+color3 #e7b000
+color4 #0071ff
+color5 #bb00bb
+color6 #00bbbb
+color7 #bbbbbb
+
+# bright
+color8 #555555
+color9 #bb0000
+color10 #00bb00
+color11 #e7b000
+color12 #0071ae
+color13 #ff55ff
+color14 #55ffff
+color15 #ffffff

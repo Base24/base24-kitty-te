@@ -1,0 +1,34 @@
+# Earthsong
+# Scheme by Iterm2B24
+background #282420
+foreground #c5ab93
+selection_background #c5ab93
+selection_foreground #282420
+url_color #a5917e
+cursor #c5ab93
+active_border_color #857769
+inactive_border_color #111417
+active_tab_background #282420
+active_tab_foreground #c5ab93
+inactive_tab_background #111417
+inactive_tab_foreground #a5917e
+
+# normal
+color0 #111417
+color1 #c84134
+color2 #84c44b
+color3 #f4ae2e
+color4 #1397b9
+color5 #d0623c
+color6 #4f9452
+color7 #e5c5a9
+
+# bright
+color8 #665e54
+color9 #ff6459
+color10 #97e035
+color11 #dfd561
+color12 #5ed9ff
+color13 #ff9168
+color14 #83ef88
+color15 #f6f6ec

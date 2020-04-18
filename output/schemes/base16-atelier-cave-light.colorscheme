@@ -1,0 +1,34 @@
+# Atelier Cave Light
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+background #efecf4
+foreground #585260
+selection_background #585260
+selection_foreground #efecf4
+url_color #655f6d
+cursor #585260
+active_border_color #7e7887
+inactive_border_color #e2dfe7
+active_tab_background #efecf4
+active_tab_foreground #585260
+inactive_tab_background #e2dfe7
+inactive_tab_foreground #655f6d
+
+# normal
+color0 #e2dfe7
+color1 #be4678
+color2 #2a9292
+color3 #aa573c
+color4 #576ddb
+color5 #955ae7
+color6 #398bc6
+color7 #26232a
+
+# bright
+color8 #8b8792
+color9 #be4678
+color10 #2a9292
+color11 #a06e3b
+color12 #576ddb
+color13 #955ae7
+color14 #398bc6
+color15 #19171c

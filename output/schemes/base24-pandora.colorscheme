@@ -1,0 +1,34 @@
+# Pandora
+# Scheme by Iterm2B24
+background #131d42
+foreground #b8beba
+selection_background #b8beba
+selection_foreground #131d42
+url_color #8f9b94
+cursor #b8beba
+active_border_color #66786e
+inactive_border_color #000000
+active_tab_background #131d42
+active_tab_foreground #b8beba
+inactive_tab_background #000000
+inactive_tab_foreground #8f9b94
+
+# normal
+color0 #000000
+color1 #ff4242
+color2 #74af68
+color3 #ffad29
+color4 #338f86
+color5 #9413e5
+color6 #23d7d7
+color7 #e1e1e1
+
+# bright
+color8 #3e5548
+color9 #ff3242
+color10 #74cd68
+color11 #ffb929
+color12 #23d7d7
+color13 #ff37ff
+color14 #00ede1
+color15 #ffffff
